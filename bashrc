@@ -110,3 +110,5 @@ PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 # Add VirtualBox VMs for vagrant
 # PATH=$PATH:$HOME/VirtualBox\ VMs:/c/Program\ Files/Oracle/VirtualBox
 
+
+PATH=$PATH:/usr/local/rvm/bin # Add RVM to PATH for scripting
